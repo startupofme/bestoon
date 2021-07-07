@@ -1,5 +1,5 @@
 
-# Bestoon
+# Bestoon Az Kazem
 
 A simple Income and Expense system.
 
